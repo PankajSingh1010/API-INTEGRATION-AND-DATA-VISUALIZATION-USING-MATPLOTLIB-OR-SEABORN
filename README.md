@@ -149,3 +149,7 @@ ________________________________________
 1.	OpenWeatherMap API Documentation. 
 2.	Matplotlib Documentation.
 3.	Seaborn Documentation.
+
+# OUTPUT : DASHBOARD
+
+![TASK 1 DASHBOARD](https://github.com/user-attachments/assets/e97173e1-3124-4da8-9b8e-2f3acf3ff3d7)
