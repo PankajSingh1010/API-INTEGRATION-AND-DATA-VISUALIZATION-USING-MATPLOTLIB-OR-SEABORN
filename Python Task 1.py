@@ -4,7 +4,7 @@ import seaborn as sns
 from datetime import datetime
 
 # 1. Fetch Data from OpenWeatherMap API
-api_key = "bed5cdbe6e772aeeebb11d17c489d253"  # Your API Key
+api_key = "Enter Your API key here"  # Your API Key
 city = "Kolkata"  # You can change this to any city of your choice
 url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
 response = requests.get(url)
